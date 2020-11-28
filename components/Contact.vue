@@ -9,6 +9,8 @@
     <p class="mt-4 text-center text-gray-600 text-xl font-bold italic">
       ~ I'm your man. Reach me by tapping on any of the buttons below ~
     </p>
+
+    
     <div class="sm:flex justify-center items-center">
       <div class="mt-16 sm:mr-24">
         <a
@@ -17,7 +19,7 @@
           rel="noreferrer"
         >
           <div
-            class="w-24 h-24 mx-auto flex justify-center items-center rounded-full border-4 border-white shadow-xl animate-bounce"
+            class="w-24 h-24 mx-auto flex justify-center items-center rounded-full border-4 border-white shadow-xl hover:border-gray-600 animate-bounce"
           >
             <img src="@/assets/svg/email.svg" alt="email-icon" class="relative w-12 h-12" />
           </div>
@@ -33,7 +35,7 @@
           target="_blank"
         >
           <div
-            class="w-24 h-24 mx-auto flex justify-center items-center rounded-full border-4 border-white shadow-xl animate-bounce"
+            class="w-24 h-24 mx-auto flex justify-center items-center rounded-full border-4 border-white shadow-xl hover:border-gray-600 animate-bounce"
           >
             <img src="@/assets/svg/facebook.svg" alt="facebook-icon" class="relative w-12 h-12" />
           </div>
@@ -49,7 +51,7 @@
                   target="_blank"
                 >
         <div
-          class="w-24 h-24 mx-auto flex justify-center items-center rounded-full border-4 border-white shadow-xl animate-bounce"
+          class="w-24 h-24 mx-auto flex justify-center items-center rounded-full border-4 border-white shadow-xl hover:border-gray-600 animate-bounce"
         >
           <img src="@/assets/svg/linkedin.svg" alt="linkedin-icon" class="relative w-12 h-12" />
         </div>

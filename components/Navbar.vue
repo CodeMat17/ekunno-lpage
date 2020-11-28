@@ -13,8 +13,8 @@
               src="@/assets/images/face.webp"
               alt="face-logo"
             />
-            <h3 class="ml-2 text-lg font-semibold text-gray-400 animate-pulse">
-              Mike Ekunno
+            <h3 class="ml-2 text-xl font-semibold text-gray-400 animate-pulse">
+              Mike <span class="text-green-300">Ekunno</span>
             </h3>
           </div>
         </div>

@@ -9,7 +9,7 @@
   >
     <div class="w-full h-screen flex justify-center items-center">
     <div class=" p-8">
-      <figure class="sm:flex sm:border-4 sm:border-gray-500 sm:shadow-xl sm:rounded-lg sm:overflow-hidden">
+      <figure class="sm:flex sm:border-4 sm:border-gray-500 sm:shadow-xl sm:rounded-xl sm:overflow-hidden">
         <img
           class="w-32 h-36 sm:w-48 sm:h-auto rounded-full  sm:rounded-l-lg mx-auto object-cover"
           src="@/assets/images/ekunno.webp"
@@ -28,14 +28,14 @@
             <div class="flex justify-center items-center sm:justify-start sm:items-start">
                 <a href="mailto:chudiekunno@yahoo.com" aria-label="Email" rel="noreferrer">
                   <div
-                    class="w-12 h-12 mt-4 mr-6 flex justify-center items-center rounded-full border-4 text-gray-900 bg-gray-400 animate-bounce"
+                    class="w-12 h-12 mt-4 mr-6 flex justify-center items-center rounded-full border-4 hover:border-gray-900 text-gray-900 bg-gray-400 animate-bounce"
                   >
                     <img src="@/assets/svg/email.svg" alt="email-svg" class="w-8 h-8" />
                   </div>
                 </a>
                 <a href="https://facebook.com/mike.ekunno" aria-label="Twitter" rel="noreferrer" target="_blank">
                   <div
-                    class="w-12 h-12 mt-4 mr-6 flex justify-center items-center rounded-full border-4 text-gray-900 bg-gray-400 animate-bounce"
+                    class="w-12 h-12 mt-4 mr-6 flex justify-center items-center rounded-full border-4 hover:border-gray-900 text-gray-900 bg-gray-400 animate-bounce"
                   >
                     <img src="@/assets/svg/facebook.svg" alt="facebook-svg" class="w-8 h-8" />
                   </div>
@@ -45,7 +45,7 @@
                   target="_blank"
                 >
                   <div
-                    class="w-12 h-12 mt-4 flex justify-center items-center rounded-full border-4 text-gray-900 bg-gray-400 animate-bounce"
+                    class="w-12 h-12 mt-4 flex justify-center items-center rounded-full border-4 hover:border-gray-900 text-gray-900 bg-gray-400 animate-bounce"
                   >
                     <img
                       src="@/assets/svg/linkedin.svg" alt="linkedIn-svg"
